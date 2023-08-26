@@ -1,0 +1,12 @@
+{
+    "totalPrice": 6,
+    "drinks": [{
+        "size": "Small",
+        "iceLevel": "Regular",
+        "price": 7,
+        "name": "Brown Sugar Boba",
+        "toppings": "Pearls,Pearls,Coconut Jelly,Grass Jelly,Sago",
+        "sugarLevel": "100%"
+    }],
+    "customerName": "a"
+}

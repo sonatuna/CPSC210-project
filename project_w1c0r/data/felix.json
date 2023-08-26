@@ -1,0 +1,30 @@
+{
+    "totalPrice": 20,
+    "drinks": [
+        {
+            "size": "Small",
+            "iceLevel": "Sago",
+            "price": 6,
+            "name": "Brown Sugar Boba",
+            "toppings": "Pearls",
+            "sugarLevel": "100%"
+        },
+        {
+            "size": "Small",
+            "iceLevel": "Regular",
+            "price": 7,
+            "name": "Strawberry Cream FLoat",
+            "toppings": "",
+            "sugarLevel": "100%"
+        },
+        {
+            "size": "Small",
+            "iceLevel": "Regular",
+            "price": 7,
+            "name": "Mango Coconut Sago",
+            "toppings": "Sago",
+            "sugarLevel": "100%"
+        }
+    ],
+    "customerName": "felix"
+}
